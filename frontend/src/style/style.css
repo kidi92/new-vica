@@ -1,0 +1,101 @@
+.myBG{
+    height: 100vh;
+    background-color: #E0F2FF;
+    background-size: cover;
+}
+
+.logo{
+    font-family: 'Righteous', sans-serif;
+}
+
+.date{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.admin{
+    padding-left: 20px;
+    height: 40vh;
+    width: auto;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.camera1{
+    padding-left: 10px;
+    height: 35vh;
+    background-color: white;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.area{
+    padding-left: 10px;
+    height: 30vh;
+    background-color: white;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.inputtext{
+    padding-top: 10px;
+    height: 30vh;
+    border: 0;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.textarea{
+    padding-left: 20px;
+    height: 40vh;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.calltitle{
+    height: 40vh;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding-right: 20px;
+}
+
+.historytitle{
+    height: 50vh;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding-right: 20px;
+}
+
+.call{
+    height: 35vh;
+    background-color: white;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.history{
+    height: 40vh;
+    background-color: white;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.button{
+    padding-top: 50px;
+    width: 20vh;
+}
+
+.buttonops{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
